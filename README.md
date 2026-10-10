@@ -1,4 +1,5 @@
 # Avinash-demo
 this is my first repository
 <br>
-Author -Avinash Kumar
+Author -Avinash gupta
+
